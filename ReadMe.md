@@ -14,10 +14,6 @@
 
 ---
 
-<table border="0">
-<tr>
-<td align="left" valign="top" width="55%">
-
 ### `$ whoami`
 
 ```yaml
@@ -29,11 +25,13 @@ learning: Flutter · Deep Learning
 web     : https://nilverti.de
 ```
 
+<table border="0">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NilverTI&theme=github_dark" alt="Stats"/>
 </td>
-<td align="center" valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NilverTI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=percentile&card_width=280&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilverTI&theme=github_dark" alt="Top Languages"/>
 </td>
 </tr>
 </table>
