@@ -1,53 +1,150 @@
 <div align="center">
 
-# 🦁 About Me
+<br/>
 
-🎓 Estudiante de Ingeniería de Sistemas  
-💻 Experiencia en C++, Java y Python  
-🌐 Proyectos en desarrollo web y aprendiendo Flutter  
-🚀 Interesado en desarrollo de software, IA y Machine Learning  
+<!-- Animated gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 🌐 Socials
+<!-- Name & title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Nilver+%F0%9F%91%8B;Systems+Engineering+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilvert.i)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nilvert.i)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nilverti)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nilvert.i)
+<p align="center">
+  <a href="https://nilverti.de" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nilverti.de-58A6FF?style=for-the-badge&labelColor=0d1117&color=58A6FF" alt="Portfolio"/>
+  </a>
+</p>
 
----
-
-# 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=NilverTI&icon=0&color=3)](https://visitcount.itsvg.in)
+<br/>
 
-<br>
+<!-- About section with clean layout -->
+<table border="0" align="center">
+<tr>
+<td align="left" width="60%">
 
-# 🏆 NILVER T.I
+### `$ whoami`
+
+```yaml
+name       : Nilver T.I
+role       : Systems Engineering Student
+focus      : Software Dev · AI · Machine Learning
+learning   : Flutter · Deep Learning
+status     : Building cool stuff 🚀
+website    : https://nilverti.de
+```
+
+</td>
+<td align="center" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NilverTI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=github" alt="GitHub Stats"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
+
+<br/>
+
+### Connect with me
+
+<p align="center">
+  <a href="https://nilverti.de" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nilverti.de-58A6FF?style=flat-square&logo=google-chrome&logoColor=white&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://instagram.com/nilvert.i" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nilvert.i-E4405F?style=flat-square&logo=Instagram&logoColor=white&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://tiktok.com/@nilvert.i" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@nilvert.i-white?style=flat-square&logo=TikTok&logoColor=white&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://x.com/Nilverti" target="_blank">
+    <img src="https://img.shields.io/badge/X-@Nilverti-8b949e?style=flat-square&logo=X&logoColor=white&labelColor=161b22" />
+  </a>&nbsp;
+  <a href="https://youtube.com/@nilvert.i" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@nilvert.i-FF0000?style=flat-square&logo=YouTube&logoColor=white&labelColor=161b22" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+### Tech Stack
+
+#### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+#### Frontend & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-217346?style=flat-square&logo=Qt&logoColor=white" />
+</p>
+
+#### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NilverTI&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NilverTI&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" alt="Activity Graph" width="90%"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NilverTI&icon=6&color=1&label=Profile+Views&labelColor=0d1117&pretty=true" alt="Profile Views"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
